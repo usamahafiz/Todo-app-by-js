@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    box-shadow:(0, 0, 0, 0.2);
+}
+
+.navbar, footer {
+    background-color: #1d2951 !important;
+}
+#btnUpdate{
+    display: none;
+}
